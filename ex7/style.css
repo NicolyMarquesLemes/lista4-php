@@ -1,0 +1,25 @@
+body{
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+}
+
+input{
+    padding: 5px;
+}
+
+button{
+    padding: 5px;
+}
+
+.card{
+    background-color: white;
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.erro{
+    color: red;
+}

@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+}
+
+.post{
+    background-color: white;
+    width: 60%;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid gray;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    margin-top: 5px;
+}
+
+p{
+    margin-top: 10px;
+}

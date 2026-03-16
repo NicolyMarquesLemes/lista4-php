@@ -3,5 +3,10 @@
         "nome": "Nicoly",
         "idade": "18",
         "curso": "T.I."
+    },
+    {
+        "nome": "nicoly",
+        "idade": "17",
+        "curso": "t.i."
     }
 ]
